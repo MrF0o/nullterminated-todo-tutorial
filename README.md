@@ -1,5 +1,7 @@
 # todo-app
 
+read the full tutorial here: [https://nullterminated.co/how-to-build-a-todo-app-with-vue-3/](https://nullterminated.co/how-to-build-a-todo-app-with-vue-3/)
+
 ## Project setup
 ```
 npm install
